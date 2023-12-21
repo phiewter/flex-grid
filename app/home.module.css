@@ -1,0 +1,22 @@
+.box {
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  user-select: none;
+}
+
+.red {
+  background-color: #FFCCCB;
+}
+
+.blue {
+  background-color: #CCCBFF;
+}
+
+.green {
+  background-color: #CCFFCB;
+}
