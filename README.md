@@ -1,6 +1,6 @@
 This is overview for `flex` / `grid` made by: [Pieter van Arend](https://github.com/Phiewter)
 
-The overview is created with [Next.js](https://nextjs.org/).
+Build with: [Next.js](https://nextjs.org/).
 
 ## Introduction
 
