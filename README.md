@@ -1,6 +1,6 @@
-This is overview for `flex` / `grid` made by - [phiewter](https://github.com/phiewter)
+This is an overview for `flex` / `grid` within CSS.
 
-Built with - [Next.js](https://nextjs.org/)
+Made by [phiewter](https://github.com/phiewter) — Built with [Next.js](https://nextjs.org/)
 
 ## Introduction
 
