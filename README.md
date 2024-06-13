@@ -1,6 +1,6 @@
-This is overview for `flex` / `grid` made by: [Pieter van Arend](https://github.com/Phiewter)
+This is overview for `flex` / `grid` made by - [phiewter](https://github.com/phiewter)
 
-Build with: [Next.js](https://nextjs.org/)
+Built with - [Next.js](https://nextjs.org/)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ You can check out [Pieter's GitHub repository](https://github.com/Phiewter) - yo
 
 ## Practice
 
-Want to learn more?
+Not satisfied yet? Start practicing!
 
 The easiest way to learn is by applying your learned concepts.
 
