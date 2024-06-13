@@ -22,7 +22,7 @@ To learn more about `flex` / `grid`, take a look at the following resources:
 - [Josh Comeau - An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [Mozilla - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - MDN Web Docs
 
-You can check out [Pieter's GitHub repository](https://github.com/Phiewter) - your feedback and contributions are welcome!
+You can check out [phiewter's GitHub repository](https://github.com/phiewter) - your feedback and contributions are welcome!
 
 ## Practice
 
